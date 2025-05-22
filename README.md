@@ -1,4 +1,4 @@
-# 🧠 Machine Learning & Data Science Journey 🚀  
+# 🧠 Machine Learning & Data Science - Learning Journey 🚀  
 
 Welcome to my personal repository where I documented my **learning journey through core Machine Learning and Data Science libraries**. Along the way, I also built some exciting real-world projects to apply what I learned.
 
