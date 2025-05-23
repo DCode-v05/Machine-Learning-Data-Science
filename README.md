@@ -37,7 +37,7 @@ Dive into supervised learning using **Scikit-Learn**, one of the most popular ML
 
 ## 🧪 Projects I Built While Learning
 
-### 🔗 [Heart Disease Prediction](https://github.com/Denistanb/ML-DS/tree/main/Projects/Heart%20Disease%20Prediction)
+### 🔗 [Heart Disease Prediction](https://github.com/Denistanb/Heart-Disease-Classification)
 
 A classification problem where we predict whether a patient is likely to have heart disease based on features like age, cholesterol levels, and chest pain type.
 
