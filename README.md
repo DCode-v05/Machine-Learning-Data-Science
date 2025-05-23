@@ -46,7 +46,7 @@ A classification problem where we predict whether a patient is likely to have he
 
 ---
 
-### 🔗 [Blue Book for Bulldozer Price Prediction](https://github.com/Denistanb/ML-DS/tree/main/Projects/Blue%20Book%20for%20Bulldozers)
+### 🔗 [Blue Book for Bulldozer Price Prediction](https://github.com/Denistanb/Bulldozer-Price-Prediction)
 
 A regression problem to predict the sale price of bulldozers using temporal and categorical features.
 
