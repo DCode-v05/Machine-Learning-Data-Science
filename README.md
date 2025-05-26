@@ -55,7 +55,7 @@ A regression problem to predict the sale price of bulldozers using temporal and 
 
 ---
 
-### 🔗 [Dog Breed Classification](https://github.com/Denistanb/ML-DS/tree/main/Projects/Dog%20Breed%20Classification)
+### 🔗 [Dog Breed Classification](https://github.com/Denistanb/Dog-Breed-Classification)
 
 A computer vision problem where we classify images of dogs into their respective breeds using a Convolutional Neural Network.
 
