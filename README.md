@@ -31,7 +31,7 @@ Dive into supervised learning using **Scikit-Learn**, one of the most popular ML
 
 ## Projects I Built While Learning
 
-### [Heart Disease Prediction](https://github.com/TensoRag/Heart-Disease-Classification)
+### [Heart Disease Prediction](https://github.com/DCode-v05/Heart-Disease-Classification)
 
 A classification problem where we predict whether a patient is likely to have heart disease based on features like age, cholesterol levels, and chest pain type.
 
@@ -40,7 +40,7 @@ Goal: Improve healthcare insights using logistic regression & SVM models.
 
 ---
 
-### [Blue Book for Bulldozer Price Prediction](https://github.com/TensoRag/Bulldozer-Price-Prediction)
+### [Blue Book for Bulldozer Price Prediction](https://github.com/DCode-v05/Bulldozer-Price-Prediction)
 
 A regression problem to predict the sale price of bulldozers using temporal and categorical features.
 
@@ -49,7 +49,7 @@ Goal: Learn about feature engineering and model optimization in regression probl
 
 ---
 
-### [Dog Breed Classification](https://github.com/TensoRag/Dog-Breed-Classification)
+### [Dog Breed Classification](https://github.com/DCode-v05/Dog-Breed-Classification)
 
 A computer vision problem where we classify images of dogs into their respective breeds using a Convolutional Neural Network.
 
@@ -70,7 +70,7 @@ Goal: Learn the basics of image classification and deep learning.
 ## Getting Started
 1. Clone the repository:
    ```bash
-   git clone https://github.com/TensoRag/Machine-Learning-Data-Science.git
+   git clone https://github.com/DCode-v05/Machine-Learning-Data-Science.git
    cd Machine-Learning-Data-Science
    ```
 2. Install the required libraries:
@@ -168,5 +168,5 @@ Contributions are welcome! To contribute:
 5. Open a pull request describing your changes.
    
 ## Contact
-- **GitHub**: [TensoRag](https://github.com/TensoRag)
+- **GitHub**: [DCode-v05](https://github.com/DCode-v05)
 - **Email**: denistanb05@gmail.com
